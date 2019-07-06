@@ -1,0 +1,2 @@
+terminal:
+  script: sleep 60
